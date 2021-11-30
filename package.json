@@ -1,0 +1,19 @@
+{
+  "name": "book-search-front-end",
+  "version": "1.0.0",
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JuVoros/book-search-front-end.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JuVoros/book-search-front-end/issues"
+  },
+  "homepage": "https://github.com/JuVoros/book-search-front-end#readme"
+}
